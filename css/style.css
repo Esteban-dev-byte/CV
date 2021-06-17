@@ -1,0 +1,55 @@
+
+header{
+    background-color: #3C4245;
+}
+
+h1{
+    color: #DFCDC3;
+    background-color: #5F6769;
+    font-family: "Times New Roman";
+    font-style: normal;
+}
+
+h2{
+
+    color: #DFCDC3;
+    background-color: #5F6769;
+    padding: 5px;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%;
+}
+
+div{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.centerimg{
+    display:block;
+    margin: auto;
+}
+
+.centertext{
+    text-align: center;
+}
+
+.noitalic{
+    font-style: normal;
+}
+
+ul li span{
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+
+footer{
+    font-family: "Times New Roman";
+    font-weight: bold;
+    background-color: #719192 ;
+    color: #FFFFFF;
+}
